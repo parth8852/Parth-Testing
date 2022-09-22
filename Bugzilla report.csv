@@ -1,0 +1,39 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+2,major,High,Windows,vijay@gmail.com,ASSIGNED,---,Product not to display properly so how to buy the product.
+37,normal,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,Check news letter button in footer.
+38,normal,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,Check Store information button in footer.
+27,normal,Normal,Windows,laxmi@gmail.com,ASSIGNED,---,"Check register button with first name,last name, password,company name, address, city, state,country,Assign an address alias for future reference with space in alphabets."
+28,normal,Normal,Windows,laxmi@gmail.com,ASSIGNED,---,Check register button with given space in between mobile no digit.
+29,normal,Normal,Windows,laxmi@gmail.com,ASSIGNED,---,Check register button with 32 digit in mobile no. menu.
+11,major,Normal,Windows,raj@gmail.com,ASSIGNED,---,Check send button with wrong domain name in mail ID.
+30,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Check your logo button.
+31,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Click on sort by button with blank.
+32,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Click on sort by button with blank.
+33,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Check Qty. button with enter alphabets.
+34,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Check Qty. button with enter specials characters.
+35,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,Check Qty. button with blank.
+5,major,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with blank or null value.
+6,major,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with wrong value.
+7,major,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button after @  more than 2 dots.
+8,major,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button start email id with specials character.
+9,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with long characters mail ID.
+10,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with starting all digits in mail ID
+12,major,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button email starting with # special characters.
+13,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button email starting with % special characters.
+14,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button email starting with & special characters.
+15,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with full of special characters in order referance.
+16,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with giving space in order reference.
+17,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with giving _ in between order reference.
+18,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with all alphabets in order reference.
+19,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with alphabet and numbers in order reference.
+20,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with given . (DOT) between alphabet and numbers in order reference.
+21,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with given . (DOT) between number and number in order reference.
+22,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with given all special characters text message details.
+23,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,"Check send button with given alphabets, number and specials characters text message details."
+24,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with given image in message details.
+25,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,Check send button with given space in message details.
+1,critical,High,Windows,laxmi@gmail.com,RESOLVED,FIXED,If any email or password will entered then login successfully.
+36,normal,Normal,Windows,khushbu@gmail.com,RESOLVED,FIXED,Check search store button with blank location.
+26,normal,Normal,Windows,laxmi@gmail.com,RESOLVED,FIXED,"Check register button with first name,last name, password,company name, address, city, Assign an address alias for future reference with Emoji."
+3,normal,Normal,Windows,vijay@gmail.com,RESOLVED,FIXED,Must be open the 70% discount of all product page.
+4,major,Low,Windows,raj@gmail.com,RESOLVED,FIXED,Must be send the whole contact details which you have set.
